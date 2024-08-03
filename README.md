@@ -1,0 +1,1 @@
+# java-script-gerador-de-senha-
